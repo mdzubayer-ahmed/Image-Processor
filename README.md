@@ -1,4 +1,4 @@
-# Image Processing and Thresholding GUI
+# Image Processing Application
 
 A comprehensive Python GUI application for image processing and thresholding, with features including noise addition, multiple filtering techniques, and thresholding methods. This tool allows users to load images, apply processing operations, and visualize the results with histograms.
 
